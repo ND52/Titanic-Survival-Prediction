@@ -1,5 +1,6 @@
 # Titanic-Survival-Prediction
-To predict whether a person will be saved from Titanic shipwreck or not.
+To predict whether a person will be saved from Titanic shipwreck or not. 
+
 To determine the group of people that are most likely to survive than others
 # Tool Used 
 Jupyter Notebook 
